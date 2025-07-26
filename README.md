@@ -53,7 +53,7 @@
 ## 🐍 Contribution
 
 <p align="center">
-  <img src="https://github.com/ahmedm0913/ahmedm0913/blob/output/snake.svg" />
+  <img src=".github/workflows/snake.yml" />
 </p>
 
 ---
