@@ -50,10 +50,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <p align="center">
-  <img src="https://github.com/ahmedm0913/ahmedm0913/blob/output/snake.svg" alt="Contribution Snake Animation" />
+  <img src="https://github.com/ahmedm0913/ahmedm0913/blob/output/snake.svg" />
 </p>
 
 ---
