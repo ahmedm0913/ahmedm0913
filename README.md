@@ -1,30 +1,82 @@
 <p align="center">
-  <img src="banner.png" alt="Welcome Banner" width="800"/>
+  <img src="profile-banner.png" alt="Welcome Banner" width="800"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Ahmed</h1>
-<h3 align="center">Electronics & Telecommunication Engineering Student</h3>
+<h1 align="center">Hi, I'm Ahmed Munavvar 👋</h1>
+<h3 align="center">Electronics & Telecommunication Engineering Undergraduate | University of Moratuwa</h3>
+
+---
+
+## 🌟 About Me
+
+- 🎓 3rd-year Electronics & Telecommunication Engineering student at UoM  
+- 🔧 Focused on analog & mixed-signal design, PCB development, and embedded systems  
+- 🚀 Interested in machine learning applications in hardware and open-source IC design tools  
+- 🏆 Team leader of SocketBurners – multiple national award-winning innovation team  
+
+---
+
+## 🛠️ Skills
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> •
-  <a href="https://github.com/yourusername?tab=repositories">Projects</a> •
-  <a href="mailto:your@email.com">Contact</a>
+  <img src="https://img.shields.io/badge/Altium%20Designer-Advanced-orange?style=for-the-badge&logo=altium-designer" />
+  <img src="https://img.shields.io/badge/LTSpice-Simulation-blue?style=for-the-badge&logo=analog-devices" />
+  <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Python-Intermediate-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Hardware-red?style=for-the-badge&logo=arduino" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔧 3rd-year Electronics & Telecommunication Engineering undergraduate
-- 🛠️ PCB Design, Analog/Mixed-Signal Circuits, Embedded Systems
-- 🌱 Exploring open-source IC tools and machine learning
+## 🚀 Featured Project
+
+### [ECOSYNC – Automated AC Temperature Regulator](https://github.com/ahmedm0913/ECOSYNC)
+
+<p align="center">
+  <img src="ecosync-banner.png" alt="ECOSYNC Project" width="700"/>
+</p>
+
+- 🛠️ Team Leader – PCB design (KPD & ACC), project coordination, and business pitching  
+- 🌱 Built a smart AC temperature regulator for hotel rooms using IR + BLE  
+- 🏆 **Awards:** IESL TechnoSpark, INSEE Circular Economy Challenge, IEEE Future Innovators Challenge  
 
 ---
 
-## 🌟 Featured Projects
-- [ECOSYNC – Intelligent AC Regulator](https://github.com/yourusername/ecosync)
-- [Another Project](https://github.com/yourusername/project)
+## 📂 Other Projects (Coming Soon)
+
+- 🟢 **Industrial Strain Gauge Torque Sensor**  
+- 🎸 **Analog Guitar Tuner**  
+- 🎧 **High-Fidelity Analog Headphone Amplifier**
 
 ---
 
-## 🐍 Fun
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/ahmedm0913/ahmedm0913/blob/output/snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedm0913&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedm0913&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:nazarahamed64@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ahmed-munavvar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmedm0913"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Built for energy efficiency. Engineered with passion.”</em>
+</p>
