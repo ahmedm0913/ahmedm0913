@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Welcome Banner" width="800"/>
+</p>
 
-<!--
-**ahmedm0913/ahmedm0913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Ahmed</h1>
+<h3 align="center">Electronics & Telecommunication Engineering Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a> •
+  <a href="https://github.com/yourusername?tab=repositories">Projects</a> •
+  <a href="mailto:your@email.com">Contact</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔧 3rd-year Electronics & Telecommunication Engineering undergraduate
+- 🛠️ PCB Design, Analog/Mixed-Signal Circuits, Embedded Systems
+- 🌱 Exploring open-source IC tools and machine learning
+
+---
+
+## 🌟 Featured Projects
+- [ECOSYNC – Intelligent AC Regulator](https://github.com/yourusername/ecosync)
+- [Another Project](https://github.com/yourusername/project)
+
+---
+
+## 🐍 Fun
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/snake.svg)
