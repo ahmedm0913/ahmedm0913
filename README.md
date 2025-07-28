@@ -19,7 +19,7 @@
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Altium%20Designer-Advanced-orange?style=for-the-badge&logo=altium-designer" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-PCB Design-orange?style=for-the-badge&logo=altium-designer" />
   <img src="https://img.shields.io/badge/LTSpice-Simulation-blue?style=for-the-badge&logo=analog-devices" />
   <img src="https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Python-Intermediate-green?style=for-the-badge&logo=python" />
@@ -50,13 +50,6 @@
 
 ---
 
-## 🐍 Contribution
-
-<p align="center">
-  <img src=".github/workflows/snake.yml" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
