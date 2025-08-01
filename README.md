@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Photos/Welcome_Banner.png" alt="Welcome Banner" width="800"/>
+  <img src="Blue and White Illustrated Welcome Banner.png" alt="Welcome Banner" width="800"/>
 </p>
 
 <h1 align="center">Hi, I'm Ahmed Munavvar 👋</h1>
