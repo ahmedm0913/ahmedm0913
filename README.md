@@ -31,12 +31,12 @@
 ### [ECOSYNC – Automated AC Temperature Regulator](https://github.com/ahmedm0913/ECOSYNC)
 
 <p align="center">
-  <img src="ecosync-banner.png" alt="ECOSYNC Project" width="700"/>
+  <img src="IMG-20240829-WA0081.jpg" alt="ECOSYNC Project" width="700"/>
 </p>
 
 - 🛠️ Team Leader – PCB design (KPD & ACC), project coordination, and business pitching  
 - 🌱 Built a smart AC temperature regulator for hotel rooms using IR + BLE  
-- 🏆 **Awards:** IESL TechnoSpark, INSEE Circular Economy Challenge, IEEE Future Innovators Challenge  
+- 🏆 **Awards:** IESL TechnoSpark Runner's Up, INSEE Circular Economy Challenge Runner's Up, IEEE Future Innovators Challenge 2nd Runners and Most Popular Innovation and IESE Grant Scheme Finalists  
 
 ---
 
