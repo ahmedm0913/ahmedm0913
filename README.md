@@ -12,8 +12,6 @@
 - 🎓 3rd-year Electronics & Telecommunication Engineering student at UoM  
 - 🔧 Focused on analog & mixed-signal design, PCB development, and embedded systems  
 - 🚀 Interested in machine learning applications in hardware and open-source IC design tools  
-- 🏆 Team leader of SocketBurners – multiple national award-winning innovation team  
-
 ---
 
 ## 🛠️ Skills
