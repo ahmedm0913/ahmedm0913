@@ -30,7 +30,7 @@
 ### Strain Gauge-Based Industrial Torque Sensor
 
 <p align="center">
-  <img src="1000249247.jpg" alt="Torque Sensor Project" width="700"/>
+  <img src="IMG-20250711-WA0103.jpg" alt="Torque Sensor Project" width="700"/>
 </p>
 
 - ⚙️ Designed a wireless torque sensor for rotating shafts using strain gauges in a Wheatstone bridge configuration  
