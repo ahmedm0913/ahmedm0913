@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [ECOSYNC – Automated AC Temperature Regulator](https://github.com/ahmedm0913/ECOSYNC)
 
@@ -36,15 +36,62 @@
 
 - 🛠️ Team Leader – PCB design (KPD & ACC), project coordination, and business pitching  
 - 🌱 Built a smart AC temperature regulator for hotel rooms using IR + BLE  
-- 🏆 **Awards:** IESL TechnoSpark Runner's Up, INSEE Circular Economy Challenge Runner's Up, IEEE Future Innovators Challenge 2nd Runners and Most Popular Innovation and IESE Grant Scheme Finalists  
+- 🏆 **Awards:** IESL TechnoSpark Runner's Up, INSEE Circular Economy Challenge Runner's Up, IEEE Future Innovators Challenge 2nd Runners and Most Popular Innovation, IESE Grant Scheme Finalists  
 
 ---
 
-## 📂 Other Projects (Coming Soon)
+### Strain Gauge-Based Industrial Torque Sensor
 
-- 🟢 **Industrial Strain Gauge Torque Sensor**  
-- 🎸 **Analog Guitar Tuner**  
-- 🎧 **High-Fidelity Analog Headphone Amplifier**
+<p align="center">
+  <img src="torque_sensor_internal.jpg" alt="Torque Sensor Project" width="700"/>
+</p>
+
+- ⚙️ Designed a wireless torque sensor for rotating shafts using strain gauges in Wheatstone bridge configuration  
+- 🔄 Power + data transmission via inductive coupling and BLE, eliminating slip rings  
+- 🔧 Designed rigid & flex PCBs (Altium), co-developed wireless power system, and led SMT soldering & final assembly  
+- 📐 Followed full hardware design cycle: simulation, PCB, integration  
+
+---
+
+### [Class AB Headphone Amplifier](https://github.com/ahmedm0913/class-ab-headphone-amp)
+
+<p align="center">
+  <img src="headphone_amp.jpg" alt="Headphone Amplifier" width="700"/>
+</p>
+
+- 🎧 Stereo Class AB amplifier with dual op-amp preamp and ±12V rails  
+- 🎛️ Features volume control via dual-gang potentiometer; drives 32–600Ω headphones  
+- 🔬 Hands-on analog audio design: biasing, gain tuning, thermal stability, signal integrity  
+- 🧪 Breadboard tested and tuned for low-noise performance  
+
+---
+
+### Analog Guitar Tuner
+
+<p align="center">
+  <img src="guitar_tuner.jpg" alt="Guitar Tuner PCB" width="700"/>
+</p>
+
+- 🎸 Fully analog tuner with piezo input, 350Hz BPF, F-V conversion and voltage comparison  
+- ⚡ Designed complete PCB optimized for signal quality using Altium  
+- 🎤 Handled piezo input design, presentation and final tuning demo  
+- 🧠 Applied concepts in filtering, Schmitt triggers, mono-stables and analog display  
+
+---
+
+### Autonomous Multi-Tasking Robot
+
+<p align="center">
+  <img src="multitask_robot.jpg" alt="Robot" width="700"/>
+</p>
+
+- 🤖 Robot completed maze solving, color-based path following, height-based sorting & precision coin drop  
+- 🧭 Used Arduino Mega, ultrasonic + color + ToF sensors, and logic-based automation  
+- 🧩 Designed for full autonomy under physical and time constraints  
+- 🛠️ Demonstrated embedded systems integration, real-time control & robust mechanical build  
+
+---
+
 
 ---
 
