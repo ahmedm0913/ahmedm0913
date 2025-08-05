@@ -30,7 +30,7 @@
 ### Strain Gauge-Based Industrial Torque Sensor
 
 <p align="center">
-  <img src="torque_sensor_internal.jpg" alt="Torque Sensor Project" width="700"/>
+  <img src="1000249247.jpg" alt="Torque Sensor Project" width="700"/>
 </p>
 
 - ⚙️ Designed a wireless torque sensor for rotating shafts using strain gauges in a Wheatstone bridge configuration  
@@ -55,7 +55,7 @@
 ### [Class AB Headphone Amplifier](https://github.com/ahmedm0913/class-ab-headphone-amp)
 
 <p align="center">
-  <img src="headphone_amp.jpg" alt="Headphone Amplifier" width="700"/>
+  <img src="IMG-20250422-WA0001.jpg" alt="Headphone Amplifier" width="700"/>
 </p>
 
 - 🎧 Stereo Class AB amplifier with dual op-amp preamp and ±12V rails  
@@ -68,11 +68,11 @@
 ### Analog Guitar Tuner
 
 <p align="center">
-  <img src="guitar_tuner.jpg" alt="Guitar Tuner PCB" width="700"/>
+  <img src="IMG-20241211-WA0016.jpg" alt="Guitar Tuner PCB" width="700"/>
 </p>
 
 - 🎸 Fully analog tuner with piezo input, 350Hz BPF, F-V conversion and voltage comparison  
-- ⚡ Designed complete PCB optimized for signal quality using Altium  
+- ⚡ Designed a complete PCB optimised for signal quality using Altium  
 - 🎤 Handled piezo input design, presentation and final tuning demo  
 - 🧠 Applied concepts in filtering, Schmitt triggers, mono-stables and analog display  
 
@@ -81,10 +81,10 @@
 ### Autonomous Multi-Tasking Robot
 
 <p align="center">
-  <img src="multitask_robot.jpg" alt="Robot" width="700"/>
+  <img src="20241215_150603.jpg" alt="Robot" width="700"/>
 </p>
 
-- 🤖 Robot completed maze solving, color-based path following, height-based sorting & precision coin drop  
+- 🤖 Robot completed maze solving, colour-based path following, height-based sorting & precision coin drop  
 - 🧭 Used Arduino Mega, ultrasonic + color + ToF sensors, and logic-based automation  
 - 🧩 Designed for full autonomy under physical and time constraints  
 - 🛠️ Demonstrated embedded systems integration, real-time control & robust mechanical build  
