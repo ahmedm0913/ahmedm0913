@@ -27,7 +27,18 @@
 ---
 
 ## 🚀 Featured Projects
+### Strain Gauge-Based Industrial Torque Sensor
 
+<p align="center">
+  <img src="torque_sensor_internal.jpg" alt="Torque Sensor Project" width="700"/>
+</p>
+
+- ⚙️ Designed a wireless torque sensor for rotating shafts using strain gauges in a Wheatstone bridge configuration  
+- 🔄 Power + data transmission via inductive coupling and BLE, eliminating slip rings  
+- 🔧 Designed rigid & flex PCBs (Altium), co-developed wireless power system, and led SMT soldering & final assembly  
+- 📐 Followed full hardware design cycle: simulation, PCB, integration  
+
+---
 ### [ECOSYNC – Automated AC Temperature Regulator](https://github.com/ahmedm0913/ECOSYNC)
 
 <p align="center">
@@ -40,18 +51,6 @@
 
 ---
 
-### Strain Gauge-Based Industrial Torque Sensor
-
-<p align="center">
-  <img src="torque_sensor_internal.jpg" alt="Torque Sensor Project" width="700"/>
-</p>
-
-- ⚙️ Designed a wireless torque sensor for rotating shafts using strain gauges in Wheatstone bridge configuration  
-- 🔄 Power + data transmission via inductive coupling and BLE, eliminating slip rings  
-- 🔧 Designed rigid & flex PCBs (Altium), co-developed wireless power system, and led SMT soldering & final assembly  
-- 📐 Followed full hardware design cycle: simulation, PCB, integration  
-
----
 
 ### [Class AB Headphone Amplifier](https://github.com/ahmedm0913/class-ab-headphone-amp)
 
